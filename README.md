@@ -2,7 +2,8 @@
 A browser-based game inspired by the chaotic and vibrant traffic ecosystem of Mumbai.
 Players control an autorickshaw and navigate through busy streets while avoiding vehicles, collecting coins, and managing fuel.
 
----
+## 🌐 Live Demo
+https://autorickshaw-game.vercel.app
 
 ## 🎮 Features
 
